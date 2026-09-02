@@ -3,7 +3,7 @@ Kolton Stone<br>
 CIS-156-56393-2026FA<br>
 Project Description: Creation of my first website for Lakeland class.<br>
 
-Opening:Developer-setup/index.html file through open with and your browser of choice.<br>
+Opening:Stone-Kolton-javascript-introduction/index.html file through open with and your browser of choice.<br>
 
 Error Investigation:<br>
   Error Message: Uncaught ReferenceError: consle is not defined at script.js:24:1<br>
