@@ -4,8 +4,8 @@ CIS-156-56393-2026FA<br>
 Project Description: Creation of my first website for Lakeland class.<br>
 
 Opening:<br>
-  Method 1: Opening the index.html file through open with and your browser of choice.<br>
-  Method 2: Opening the repository through github and using the golive extension<br>
+  Method 1: Opening the Developer-setup/index.html file through open with and your browser of choice.<br>
+  Method 2: Opening the repository through github and using the go live extension<br>
 
 Error Investigation:<br>
   Error Message: Uncaught ReferenceError: consle is not defined at script.js:24:1<br>
