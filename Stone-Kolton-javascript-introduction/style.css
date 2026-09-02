@@ -1,0 +1,39 @@
+
+/*Page style*/
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/*Page spacing*/
+header,
+main,
+footer {
+  padding: 20px;
+}
+
+/*Header*/
+header {
+  background-color: #eeeeee;
+}
+
+/*Footer*/
+footer {
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+/*Content Selector*/
+.content {
+  max-width: 800px;
+  margin: 0px auto;
+  border: 10px solid #eeeeee;
+  padding: 20px;
+}
+
+/*Element Selector*/
+h2 {
+  color: #333333;
+  
+}
