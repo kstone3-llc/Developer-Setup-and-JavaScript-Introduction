@@ -1,2 +1,5 @@
 # Developer-Setup-and-JavaScript-Introduction
-Repository made for a class assingment.
+Kolton Stone
+CIS-156-56393-2026FA
+Project Description:
+  Repository made for a class assignment.
